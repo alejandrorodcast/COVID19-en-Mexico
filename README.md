@@ -1,1 +1,1 @@
-# COVID19-en-Mexico
+# COVID19-en-México
