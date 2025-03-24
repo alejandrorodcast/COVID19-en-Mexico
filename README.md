@@ -8,4 +8,6 @@ Los datos están disponibles de forma abierta en la página de Kaggle y provie
 
 * Identificar y clasificar la información del problema. 
 * Manipular la información disponible en un archivo de texto. 
-* Sintetizar los datos disponibles a través de Python. 
+* Sintetizar los datos disponibles a través de Python.
+
+En el código no se emplea la biblioteca Pandas de Python, se emplea file_handler. El archivo se encuentra como casos_confirmados.csv para sincronizarlo con el archivo COVID19_Méx.ipynb
